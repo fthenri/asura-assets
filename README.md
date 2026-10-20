@@ -2,7 +2,6 @@
 
 > **Versão da Engine:** 2.0 (Headless / Data-Driven / Event-Driven)  
 > **Status:** Documentação Oficial e Definitiva  
-> **Projeto:** Asura Bet Brutal — Sistema de Batalha de Galos  
 
 ---
 
